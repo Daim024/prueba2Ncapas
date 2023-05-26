@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../src/assets/img/logo.png';
+import logo from '../assets/img/logo.png'
 import { useState } from 'react'
 import { useEffect } from 'react'
 import GoogleLogin from 'react-google-login'
